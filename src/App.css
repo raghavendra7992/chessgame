@@ -1,5 +1,8 @@
-#chessbox{
-  display: grid;
-  place-content: center;
-  background-color: chocolate;
+#app {
+display: flex;
+align-items: center;
+justify-content: center;
+  height: 100vh;
+  background-color: firebrick;
+  margin: 2rem;
 }
